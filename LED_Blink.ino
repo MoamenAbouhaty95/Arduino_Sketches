@@ -1,4 +1,4 @@
-#define LED_PIN 7 // LED connected to digital pin 7
+#define LED_PIN 13 // LED connected to digital pin 13
 
 void setup()
 {
